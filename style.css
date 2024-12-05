@@ -158,7 +158,7 @@ header {
 
 #landing-page {
   box-sizing: border-box;
-  background-image: url(/media/landing.jpg);
+  background-image: url(media/landing.jpg);
   background-size: cover;
   background-position: left top;
   height: calc(100vh - 64px);
